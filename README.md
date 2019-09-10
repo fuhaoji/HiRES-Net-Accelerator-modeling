@@ -1,5 +1,5 @@
 # HiRES-Net-Accelerator-modeling
-Surrogate modeling of complex accelerator system using Neural Network
+Surrogate modeling of complex accelerator system using Neural Networks
 
 This source file shows how to train a neural network for predicting the Longitudinal phase space and other beam parameters of electron pulses at the HiRES beamline. Work was done at Lawerence Berkeley National Laboratory (LBNL).
 
